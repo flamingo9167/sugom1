@@ -1,0 +1,7 @@
+# 이 버전들로 테스트되었습니다 (2026-11). 최소 버전 미만에서는 일부 UI 기능(st.badge, 테마 등)이 동작하지 않습니다.
+streamlit>=1.67,<2
+openai>=3.46,<4
+pypdf>=7.0,<8
+cryptography>=45     # AES 로 암호화된 PDF(보기 권한 제한 포함)를 열 때 필요
+python-dotenv>=1.2,<2
+tiktoken>=0.14,<1
