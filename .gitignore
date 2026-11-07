@@ -1,0 +1,13 @@
+# 비밀 정보
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 테스트/로컬 산출물
+*.pdf
+tests/screenshots/
