@@ -1,0 +1,32 @@
+[client]
+toolbarMode = "minimal"
+
+[theme]
+font = "Pretendard Variable:https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"
+headingFont = "Pretendard Variable:https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"
+baseRadius = "0.6rem"
+buttonRadius = "0.5rem"
+showWidgetBorder = true
+metricValueFontSize = "1.6rem"
+
+[theme.light]
+primaryColor = "#2F5BD3"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F6FA"
+textColor = "#1B2333"
+borderColor = "#E2E6EE"
+linkColor = "#2F5BD3"
+
+[theme.light.sidebar]
+backgroundColor = "#F7F8FB"
+
+[theme.dark]
+primaryColor = "#4F72E3"
+backgroundColor = "#0F1420"
+secondaryBackgroundColor = "#1A2130"
+textColor = "#E6E9F0"
+borderColor = "#2A3346"
+linkColor = "#9DB4FF"
+
+[theme.dark.sidebar]
+backgroundColor = "#141A27"
